@@ -1,2 +1,6 @@
 rootProject.name='CalculetteOuf'
 include ':app'
+include ':exemple1'
+include ':exemple2'
+include ':mylibrary'
+include ':permissions'
